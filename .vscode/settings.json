@@ -39,6 +39,9 @@
         "xtr1common": "cpp",
         "xutility": "cpp",
         "map": "cpp",
-        "xtree": "cpp"
-    }
+        "xtree": "cpp",
+        "list": "cpp",
+        "vector": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
 }
